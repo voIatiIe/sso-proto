@@ -1,6 +1,6 @@
-go 1.21
-
 module github.com/voIatiIe/sso-proto
+
+go 1.21
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
